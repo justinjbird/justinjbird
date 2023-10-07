@@ -2,19 +2,19 @@
 
 I'm Justin, here's me;
 
-* Data Architect / Engineer
-* Microsoft Certified Professional
-* Microsoft Certified Trainer
-* I run a user group in South Wales all about data 👉 https://www.meetup.com/data-south-wales/ 
-* Friend of Redgate 👉 https://www.red-gate.com/hub/events/friends-of-rg/friend/JustinBird
+* Data Professional
+* Microsoft Certified Professional & Trainer
+* I run a user group all about data 👉 [Data South Wales](https://www.meetup.com/data-south-wales/)
+* I run an online data conference 👉 [#DataWeekender](https://www.dataweekender.com/)
+* I'm a Friend of Redgate 👉 https://www.red-gate.com/hub/events/friends-of-rg/friend/JustinBird
 * Community Event Helper, here's a few events I help at, you should check them out!
   * [DataRelay](https://datarelay.co.uk/)
-  * [DataWeekender](https://www.dataweekender.com/)
   * [SQLBits](https://sqlbits.com/)
 * I blog at 👉 https://justinjbird.me/
 
 ### Social links
 
+* [BlueSky](https://bsky.app/profile/justinjbird.bsky.social)
 * [Twitter](https://twitter.com/justinjbird7)
 * [LinkedIn](https://www.linkedin.com/in/justinjbird/)
 
