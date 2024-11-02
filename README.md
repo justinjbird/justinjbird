@@ -14,7 +14,7 @@ I'm Justin, here's me;
 
 ### Social links
 
-* [BlueSky](https://bsky.app/profile/justinjbird.bsky.social)
+* [BlueSky](https://bsky.app/profile/justinjbird.me)
 * [Twitter](https://twitter.com/justinjbird7)
 * [LinkedIn](https://www.linkedin.com/in/justinjbird/)
 
